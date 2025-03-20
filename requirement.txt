@@ -1,0 +1,8 @@
+selenium
+pandas
+streamlit
+matplotlib
+seaborn
+plotly
+os
+mysql.connector
